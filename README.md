@@ -6,4 +6,4 @@ https://www.virtualbox.org/
 
 .
 
-![](https://media.tenor.com/bBwV9mt2QnEAAAAC/vainzi-white-guy.gif)
+![](gif.gif)
