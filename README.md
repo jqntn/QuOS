@@ -6,4 +6,4 @@ https://www.virtualbox.org/
 
 .
 
-![](gif.gif)
+![](assets/terry.gif)
